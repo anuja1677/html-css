@@ -1,0 +1,187 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.main-container {
+    background-color: rgb(44, 111, 235);
+    width: 100vw;
+    height: 100vh;
+    box-sizing: border-box;
+    position: relative;
+    border: 1px solid rgb(44, 111, 235); 
+}
+
+.main-container1 {
+    background-color: rgb(99, 137, 215);
+    width: 100vw;
+    height: 100vh;
+    box-sizing: border-box;
+     border: 1px solid rgb(99, 137, 215); 
+}
+
+.main-container2 {
+    background-color: rgb(133, 157, 204);
+    width: 100vw;
+    height: 100vh;
+    border: 1px solid rgb(133, 157, 204); 
+}
+
+.container {
+    /* border: 2px solid black; */
+    margin: auto;
+    margin-top: 100px;
+    height: 80%;
+    width: 80%;
+    position: relative;
+}
+
+.box1 {
+    border: 2px solid black;
+    /* background-color: antiquewhite; */
+    height: 70%;
+    width: 40%;
+    position: absolute;
+    top: 70px;
+    left: 50px;
+    bottom: 40px;
+}
+
+.box2 {
+    /* background-color: beige; */
+    /* border: 2px solid black; */
+    height: 70%;
+    width: 40%;
+    position: absolute;
+    top: 70px;
+    right: 50px;
+    bottom: 40px;
+}
+
+.box3 {
+    /* background-color: bisque; */
+    /* border: 1px solid black; */
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 10px;
+    width: 20%;
+    height: 10%
+}
+
+.box4 {
+    /* background-color: beige; */
+    /* border: 2px solid black; */
+    height: 70%;
+    width: 40%;
+    margin-top: 90px;
+    margin: auto;
+}
+
+.container2 {
+    /* border: 2px solid black; */
+    margin: auto;
+    height: 80%;
+    width: 80%;
+    position: relative;
+}
+
+.box5 {
+     background-color: whitesmoke; 
+    border-bottom: 2px solid black;
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+    height: 41%;
+    width: 24%;
+    position: absolute;
+    left: 51px;
+    top: 30px;
+}
+
+.box6 {
+    /* background-color: whitesmoke;  */
+    border-bottom: 2px solid black;
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+    height: 41%;
+    width: 24%;
+    position: absolute;
+    left: 39%;
+    top: 30px;
+}
+
+.box7 {
+     background-color: whitesmoke; 
+    border-bottom: 2px solid black;
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+    height: 41%;
+    width: 24%;
+    position: absolute;
+    top: 30px;
+    right: 51px;
+}
+
+.box8 {
+    border-bottom: 2px solid black;
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+    height: 41%;
+    width: 24%;
+    position: absolute;
+    top: 310px;
+    left: 51px;
+}
+
+.box9 {
+    background-color: beige;
+    border-bottom: 2px solid black;
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+    height: 41%;
+    width: 24%;
+    position: absolute;
+    top: 310px;
+    left: 39%;
+}
+
+.box10 {
+    background-color: beige;
+    border-bottom: 2px solid black;
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+    height: 41%;
+    width: 24%;
+    position: absolute;
+    top: 310px;
+    right: 51px;
+}
+
+#bt {
+    background-color: cornflowerblue;
+    height: 50px;
+    width: 15%;
+    margin-left: 40%;
+    margin-top: 30px;
+}
+
+.conti {
+    /* background-color: bisque; */
+    /* border: 1px solid black; */
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 10px;
+    width: 20%;
+    height: 10%
+}
+
+#img {
+    object-fit: fill;
+    height: 100%;
+    width: 100%;
+}
+
+#img1 {
+    object-fit: fill;
+    height: 100%;
+    width: 100%;
+}
